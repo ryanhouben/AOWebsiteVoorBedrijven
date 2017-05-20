@@ -31,6 +31,29 @@ main {
     height: 400px;
 }
 
-#test{
-    height: 200px;
+/**
+ * Style voor volg ons footer
+ */
+#volgonsfooter{
+    line-height: 180%;
+}
+
+/**
+ * Style voor nieuws footer
+ */
+#nieuwsfooter{
+    line-height: 180%;
+}
+
+/**
+ * Style voor slogans
+ */
+#bigslogan{
+    text-align: center;
+    padding-top: 4%;
+}
+
+#smallslogan{
+    text-align: center;
+    padding-top: 1%;
 }
